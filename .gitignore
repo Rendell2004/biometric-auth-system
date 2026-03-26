@@ -1,0 +1,10 @@
+# Ignore Firebase & Database Configs
+/config/firebase-config.js
+/config/db_credentials.php
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
